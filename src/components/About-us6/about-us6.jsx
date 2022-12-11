@@ -29,9 +29,10 @@ const AboutUs6 = () => {
               <div className="content">
                 <h3>Best Designer For You</h3>
                 <h6>
-                Selama 8 tahun, Green Interior Studio selalu memberikan bahan interior yang berkualitas kepada klien.
-                Kami memberikan jaminan kepada Anda dapat menggunakan interior dari kami dalam jangka waktu yang panjang.
-                Selain itu, selama pekerjaan perbaikan dan konstruksi, kami mengontrol semua proses utama: mulai dari kualitas operasi dan persyaratan pengiriman furniture hingga instalasi.
+                Berpengalaman di bidang desain interior selama 8 tahun,
+                 Green Interior Studio selalu mempersembahkan bahan interior yang berkualitas dengan desain indah dan up to date.
+                 Kami memberikan jaminan kepada Anda untuk mendapatkan kualitas interior dengan ketahanan jangka panjang.
+                  Pengerjaan interior kami juga terpantau dan terkontrol dengan detail, mulai dari kualitas operasi, pengiriman furnitur, hingga proses instalasi.
                 </h6>
                 {/* <Link to="/about/about-dark" className="butn bord mt-30">
                   <span>About Us</span>

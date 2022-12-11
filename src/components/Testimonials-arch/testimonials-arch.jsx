@@ -185,6 +185,28 @@ class TestimonialsArch extends React.Component {
                   </div>
                 </div>
 
+                <div className="item">
+                  <div className="info inf-lrg valign">
+                    <div className="cont">
+                      <div className="author">
+                        <h6 className="author-name color-font">
+                          Ibu Titis
+                        </h6>
+                        <span className="author-details">
+                          Dreamland House
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="valign">
+                    <p className="fz-20 fw-200">
+                    Makasih ya green interior udah ngasih solusi utk rumah saya jd keliatan rapi & ciamik deh. terutama yg bagian dapur, cocok bgt sm selera sayaa.. recommended pol
+                    </p>
+                  </div>
+                </div>
+
+                
+
               </Slider>
             </div>
           </div>
