@@ -42,7 +42,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link to={`/project/citra_garden`} className="imago wow">
+                <Link to={`/project/citragarden`} className="imago wow">
                   <img src="/img/arch/work/2.webp" alt="image" />
                   <div className="item-img-overlay"></div>
                 </Link>
@@ -62,7 +62,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link to={`/project/gunawangsa_tidar`} className="imago wow">
+                <Link to={`/project/gunawangsatidar`} className="imago wow">
                   <img src="/img/arch/work/1.webp" alt="image" />
                   <div className="item-img-overlay"></div>
                 </Link>
@@ -142,7 +142,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link to={`/project/royal_residance`} className="imago wow">
+                <Link to={`/project/royalresidance`} className="imago wow">
                   <img src="/img/arch/work/5.webp" alt="image" />
                   <div className="item-img-overlay"></div>
                 </Link>
@@ -162,7 +162,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link to={`/project/citra_garden2`} className="imago wow">
+                <Link to={`/project/citragarden2`} className="imago wow">
                   <img src="/img/arch/work/6.webp" alt="image" />
                   <div className="item-img-overlay"></div>
                 </Link>
