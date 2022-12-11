@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Apartment",
+      "second": "Gunawangsa Tidar"
+    },
+    "link": "/project/gunawangsa_tidar",
+    "image": "/img/arch/slid/1.webp"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "House",
+      "second": "Citra Garden"
+    },
+    "link": "/project/citra_garden",
+    "image": "/img/arch/slid/2.webp"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Residential",
+      "second": "Royal Residance"
+    },
+    "link": "/project/royal_residance",
+    "image": "/img/arch/slid/3.webp"
+  }
+]

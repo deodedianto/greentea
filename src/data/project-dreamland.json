@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": { "small": "DreamLand", "big": "Classic Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project-dreamland/1.webp",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Ibu Titis",
+  "Budget": "40 Juta",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Dapur",
+      "link": "#"
+    }
+  ],
+  "gallery": [
+    "/img/portfolio/project-citragarden/1.webp",
+    "/img/portfolio/project-citragarden/2.webp",
+    "/img/portfolio/project-citragarden/3.webp",
+    "/img/portfolio/project-citragarden/4.webp",
+    "/img/portfolio/project-citragarden/5.webp"
+  ],
+  "description": {
+    "content": "Design Interior Perumahan Dreamland Malang. Menggunakan gaya design klasik untuk mendapatkan kenyamanan"
+  }
+}

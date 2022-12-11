@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": { "small": "Prospero", "big": "Minimalist Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project-prospero/1.webp",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Ibu Yuni",
+  "Budget": "35 Juta",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apartment - Studio",
+      "link": "#"
+    }
+  ],
+  "gallery": [
+    "/img/portfolio/project-citragarden/1.webp",
+    "/img/portfolio/project-citragarden/2.webp",
+    "/img/portfolio/project-citragarden/3.webp",
+    "/img/portfolio/project-citragarden/4.webp",
+    "/img/portfolio/project-citragarden/5.webp"
+  ],
+  "description": {
+    "content": "Design Interior Apartemen Prospero Surabaya. Menggunakan gaya design minimalist untuk memaksimalkan penataan ruangan apartemen agar terasa longgar"
+  }
+}

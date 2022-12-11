@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": { "small": "Bale Hinggil", "big": "Modern Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project-balehinggil/1.webp",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Yuni",
+  "Budget": "35 Juta",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apartment - Studio",
+      "link": "#"
+    }
+  ],
+  "gallery": [
+    "/img/portfolio/project-citragarden/1.webp",
+    "/img/portfolio/project-citragarden/2.webp",
+    "/img/portfolio/project-citragarden/3.webp",
+    "/img/portfolio/project-citragarden/4.webp",
+    "/img/portfolio/project-citragarden/5.webp"
+  ],
+  "description": {
+    "content": "Design Interior Apartemen Bale Hinggil Surabaya. Menggunakan gaya design modern untuk memaksimalkan penataan ruangan apartemen agar terasa longgar."
+  }
+}

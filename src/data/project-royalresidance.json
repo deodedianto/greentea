@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "title": { "small": "Royal Residance", "big": "Luxurious Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project-royalresidance/1.webp",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Ibu Sofi",
+  "Budget": "135 Juta",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kamar Tidur Utama",
+      "link": "#"
+    }
+  ],
+  "gallery": [
+    "/img/portfolio/project-royalresidance/1.webp",
+    "/img/portfolio/project-royalresidance/2.webp",
+    "/img/portfolio/project-royalresidance/3.webp",
+    "/img/portfolio/project-royalresidance/4.webp"
+  ],
+  "description": {
+    "content": "Design Interior Perumahan Royal Residance Surabaya. Menggunakan gaya design mewah dan modern untuk menciptakan nuansa glamor"
+  }
+}

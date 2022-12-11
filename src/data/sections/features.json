@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-like2",
+        "title": "Gratis Konsultasi",
+        "content": "Kami akan memberikan konsultasi, survey tempat gratis"
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-cash",
+        "title": "Pengendalian Budget",
+        "content": "Design dan bahan interior disesuikan dengan budget anda"
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-shuffle",
+        "title": "Pelayanan Penuh",
+        "content": "Bukan hanya design indah, tapi juga penyelesaian yang tepat"
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-paint",
+        "title": "Kenyamanan",
+        "content": "Interior yang stylis dan nyaman disaat yang bersamaan"
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": { "small": "Pakuwon", "big": "Minimalist Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project-perumpakuwon/1.webp",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Ibu Nining",
+  "Budget": "55 Juta",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kamar Anak",
+      "link": "#"
+    }
+  ],
+  "gallery": [
+    "/img/portfolio/project-citragarden/1.webp",
+    "/img/portfolio/project-citragarden/2.webp",
+    "/img/portfolio/project-citragarden/3.webp",
+    "/img/portfolio/project-citragarden/4.webp",
+    "/img/portfolio/project-citragarden/5.webp"
+  ],
+  "description": {
+    "content": "Design Interior Perumahan Pakuwon Surabaya. Menggunakan gaya minimalist dan penataan ruang yg cocok untuk anak anak"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": { "small": "Graha Bandara", "big": "Minimalis Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project-grahabandara/1.webp",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Ibu Maya",
+  "Budget": "500 Juta",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pembuatan Rumah",
+      "link": "#"
+    }
+  ],
+  "gallery": [
+    "/img/portfolio/project-citragarden/1.webp",
+    "/img/portfolio/project-citragarden/2.webp",
+    "/img/portfolio/project-citragarden/3.webp",
+    "/img/portfolio/project-citragarden/4.webp",
+    "/img/portfolio/project-citragarden/5.webp"
+  ],
+  "description": {
+    "content": "Design Eksterior dan Interior Perumahan Graha Bandara Malang. Menggunakan gaya minimalis agar rumah terasa lebih longgar"
+  }
+}
