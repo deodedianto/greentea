@@ -1,4 +1,4 @@
-import * as React from "react";
+import {React} from "react";
 import Intro5 from "components/Intro5/intro5";
 import AboutUs6 from "components/About-us6/about-us6";
 import Services6 from "components/Services6/services6";
